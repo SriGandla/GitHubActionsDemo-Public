@@ -1,0 +1,1 @@
+[![Continous Integration and Deployment](https://github.com/SriGandla/GitHubActionsDemo-Public/actions/workflows/ci-cd.yaml/badge.svg)](https://github.com/SriGandla/GitHubActionsDemo-Public/actions/workflows/ci-cd.yaml)
